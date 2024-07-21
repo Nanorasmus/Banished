@@ -1,0 +1,8 @@
+{
+	"multiplyContainerAccess": 1.5,
+	"multiplyPlayerAccess": 5.0,
+	"canAccessContainer": true,
+	"canAccessPlayer": true,
+	"canModifyContainer": true,
+	"canModifyPlayer": true
+}

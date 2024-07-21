@@ -1,0 +1,16 @@
+.fabric/
+.vscode/
+crash-reports/
+everbook/
+local/
+logs/
+patchouli_books/
+resourcepacks/
+saves/
+shaderpacks/
+options.txt
+optionsviveprofiles.txt
+patchouli_data.json
+rhino.local.properties
+servers.*
+usercache.json
