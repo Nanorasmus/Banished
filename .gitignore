@@ -1,3 +1,4 @@
+.ASSETS/
 .fabric/
 .vscode/
 crash-reports/
@@ -7,6 +8,7 @@ logs/
 patchouli_books/
 resourcepacks/
 saves/
+screenshots/
 shaderpacks/
 options.txt
 optionsviveprofiles.txt

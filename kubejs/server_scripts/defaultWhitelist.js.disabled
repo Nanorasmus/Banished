@@ -1,0 +1,12 @@
+// Set the default list to whitelist
+Hexcasting.setGlobalPatternListType(false);
+
+// Add some essential patterns
+Hexcasting.addGlobalPatterns([
+    "qaq", // Mind's Reflection
+    "aa", // Compass' Purification
+    "dd", // Compass' Purification II
+    "wa", // Alidade's Purification
+
+    "de" // Reveal
+])
